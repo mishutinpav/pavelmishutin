@@ -8,3 +8,4 @@
 1.sudo yum install wget
  устанавливает утилиту wget на вашу систему
  
+![1](https://github.com/user-attachments/assets/afebe2c6-6dfc-402c-ab77-f2caf7029b02)
