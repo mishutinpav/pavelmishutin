@@ -1,8 +1,6 @@
 # pavelmishutin
 Перед началой установки, нужно установить Linux Oracle на VirtualBox, для этого нужно:
-
 Иметь образ Linux Выделить 2+ ядер. Выделать 4096+ МБ оперативы. При установки операционной системы, нужно будет выбрать английский язык.
-
 Далее переходим к установке docker с использованием grafana, вводим следующий набор команд:
 
 1.sudo yum install wget
@@ -101,12 +99,12 @@ Authentication <br>
 <>Basic authentication <br>
 <>User: admin <br>
 <>Password: admin <br>
-<>Нажимаем на Save & test и должно показывать зелёную галочку <br>
+<>Нажимаю на Save & test и должно показывать зелёную галочку <br>
 
 в меню выбираю вкладку Dashboards и создаем Dashboard <br>
 <>жму кнопку "Import dashboard" <br>
-<>Find and import dashboards for common applications at grafana.com/dashboards: 1860 //ждем кнопку Load <br>
-<>Select Prometheus ждем кнопку "Import" <br>
+<>Find and import dashboards for common applications at grafana.com/dashboards: 1860 //жму кнопку Load <br>
+<>Select Prometheus жму кнопку "Import" <br>
 
 ![9](https://github.com/user-attachments/assets/2465f732-d5ab-4ba3-9d14-0224a22f1a18)
 
